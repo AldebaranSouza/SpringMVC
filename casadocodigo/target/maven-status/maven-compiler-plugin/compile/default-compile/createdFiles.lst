@@ -1,0 +1,15 @@
+br\com\casadocodigo\loja\config\JPAConfiguration.class
+br\com\casadocodigo\loja\models\conversors\LocalDateAttributeConverter.class
+br\com\casadocodigo\loja\models\Preco.class
+br\com\casadocodigo\loja\infra\FileSaver.class
+br\com\casadocodigo\loja\config\AppWebConfiguration.class
+br\com\casadocodigo\loja\controllers\HomeController.class
+br\com\casadocodigo\loja\daos\ProdutoDAO.class
+br\com\casadocodigo\loja\config\ServletSpringMVC.class
+br\com\casadocodigo\loja\validation\ProdutoValidation.class
+br\com\casadocodigo\loja\controllers\ProdutosController.class
+br\com\casadocodigo\loja\models\conversors\LocalDateTimeAttributeConverter.class
+br\com\casadocodigo\loja\models\conversors\LocalDateToStringConverter.class
+br\com\casadocodigo\loja\models\TipoPreco.class
+br\com\casadocodigo\loja\models\Produto.class
+br\com\casadocodigo\loja\models\conversors\StringToLocalDateConverter.class
